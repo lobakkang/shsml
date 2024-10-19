@@ -10,3 +10,9 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
+unit_tests*
+lol.vim
+benchmarks
+bin
+main
+lib
